@@ -2,6 +2,9 @@
 
 This repo holds all the code for a React todos application. You can follow the step by step [guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/). The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
 
+### Live Demo
+Here is the live demo https://koomekevo.github.io/react-todo-project
+
 ### Clone the project
 
 You can download or clone this project by running this command from your terminal:
